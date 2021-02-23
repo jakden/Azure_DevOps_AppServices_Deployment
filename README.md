@@ -1,4 +1,4 @@
-# Docs
+# Deploying a Website with Azure App Services and Azure DevOps
 Deploying a Website with Azure App Services and Azure DevOps
  This post provides an introductory example of how Azure App Services and Azure DevOps can be utilized for a website deployment.  This site was deployed using these methods.
 
