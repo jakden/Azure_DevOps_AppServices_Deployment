@@ -1,6 +1,6 @@
 # Deploying a Website with Azure App Services and Azure DevOps
-Deploying a Website with Azure App Services and Azure DevOps
- This post provides an introductory example of how Azure App Services and Azure DevOps can be utilized for a website deployment.  This site was deployed using these methods.
+
+ This document provides an introductory example of how Azure App Services and Azure DevOps can be utilized for a website deployment.
 
  Create an Azure account https://azure.microsoft.com/en-us/free/ and login to Azure portal.  You can use an email account you already have or create a free windows live account and transition to your preferred domain later. 
  
