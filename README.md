@@ -46,7 +46,7 @@ hugo new site qwarvio
 ```
 Lets take a look at the folder structure:
 
-![alt text](https://github.com/jakden/Azure_DevOps_AppServices_Deployment/blob/main/P0001/P0001_IMG11.png)
+![alt text](https://github.com/jakden/Azure_DevOps_AppServices_Deployment/blob/main/P0001_IMG11.png)
 
 Next we can start the web server using the command:
 ```Powershell
